@@ -1,0 +1,8 @@
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+tqdm
+colorama
