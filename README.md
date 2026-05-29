@@ -109,7 +109,7 @@ After downloading, extract the zip and place these two files in the `data/` fold
 ## Installation & Setup
 
 **1. Clone the repository**
-git clone https://github.com/YOUR_USERNAME/skill-trend-analyzer.git
+git clone https://github.com/ayeshatariq517/skill-trend-analyzer.git
 cd skill-trend-analyzer
 
 **2. Install dependencies**
